@@ -1,0 +1,15 @@
+= Animals
+. Lion
+. Tiger
+. Zebra
+. Elephant
+. Bear
+. Giraffe
+. Cheeta
+
+= Birds
+. Peacock
+. Ostrich
+. Eagle
+. Vulture
+. Owl
