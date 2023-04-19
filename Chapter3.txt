@@ -1,0 +1,22 @@
+= Animals
+. Lion
+. Tiger
+. Zebra
+. Elephant
+. Bear
+. Giraffe
+. Cheeta
+
+= Birds
+. Peacock
+. Ostrich
+. Eagle
+. Vulture
+. Owl
+
+= Tree
+. Banyan
+. Palm
+. Coconut
+. Mango
+. Red Wood
